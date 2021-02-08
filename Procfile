@@ -1,0 +1,1 @@
+web: gunicorn django2021.wsgi:application
